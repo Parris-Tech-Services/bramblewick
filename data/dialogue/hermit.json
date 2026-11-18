@@ -25,7 +25,7 @@
       ]
     },
     "lore": {
-      "text": ["Some nights the ground hums like a struck bell. It isn't roaring, whatever it is. It's waiting.",
+      "text": ["Some nights the ground hums like a struck bell. Whatever it is, it is patient. It is waiting.",
                "The mine was a barrow before it was a mine. Old dead, old promises. Miners dig into such places at a price.",
                "The fen-water's been shivering in rings, Sal says. Rings point at their stone, like ripples run backwards. Everything old in this valley is listening to the same thing."],
       "choices": [{"label": "(Leave)", "next": null}]

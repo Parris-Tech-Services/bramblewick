@@ -33,7 +33,7 @@
       ]
     },
     "door": {
-      "text": "\"Below. Past the gallery the old crews sealed - there's a DOOR down there. Black stone, and it's open now. The cold that comes off it puts out lanterns. The Matron wasn't the master here - she was the doorkeeper. It's still down there, and it knows the way is open.\"",
+      "text": "\"Below. Past the gallery the old crews sealed - there's a DOOR down there. Black stone, and it's open now. The cold that comes off it puts out lanterns. The Matron only kept the door. What she kept it against is still down there, and it knows the way is open.\"",
       "choices": [
         {"label": "Then I'll go down and shut it for good. (He tells you the way to the Black Door)",
          "condition": {"not_flag": "barrow_opened"},
